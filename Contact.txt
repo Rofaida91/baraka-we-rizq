@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>تواصل معنا</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 20px;
+            text-align: right;
+        }
+        h2 {
+            color: blue;
+        }
+    </style>
+</head>
+<body>
+    <h2>تواصل معنا</h2>
+    <p>رقم الهاتف 1: <a href="tel:+123456789">123456789</a></p>
+    <p>رقم الهاتف 2: <a href="tel:+987654321">987654321</a></p>
+    <p>رقم الهاتف 3: <a href="tel:+112233445">112233445</a></p>
+</body>
+</html>

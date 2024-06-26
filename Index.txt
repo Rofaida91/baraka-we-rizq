@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="شركة بركة ورزق للمقاولات - نقدم أفضل الخدمات في مجال المقاولات والبناء.">
+    <meta name="keywords" content="شركة بركة ورزق, مقاولات, بناء, خدمات المقاولات, مشاريع البناء">
+    <meta name="author" content="شركة بركة ورزق للمقاولات">
+    <link rel="sitemap" type="application/xml" title="Sitemap" href="sitemap.xml">
+<title>بركة ورزق</title>
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: right;
+        }
+        header {
+            background-color: blue;
+            color: white;
+            padding: 10px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+        .title {
+            color: yellow;
+        }
+        .nav-link {
+            color: white;
+            font-weight: bold;
+        }
+        section {
+            padding: 20px;
+        }
+        h1, h2 {
+            color: blue;
+        }
+        h1 {
+            text-align: center;
+        }
+        h2 {
+            text-align: right;
+        }
+    </style>
+</head>
+<body>
+    <header class="container-fluid">
+        <div class="title">بركة ورزق</div>
+        <nav class="nav">
+            <a class="nav-link" href="contact.html">تواصل معنا</a>
+            <a class="nav-link" href="branches.html">فروعنا</a>
+            <a class="nav-link" href="projects.html">الأعمال</a>
+        </nav>
+    </header>
+    <section>
+        <h1>مؤسسة بركة ورزق للمقاولات</h1>
+        <h2>تقديم</h2>
+         <p>"مؤسسة بركة ورزق للمقاولات العامة ذ.م.م سجل تجاري رقم 5900017306 تأسست سنة 1443 هجريا التصنيف القانوني 
+و هي مؤسسة فردية سعودية اكتسبت الافضلية و بشهادة الشركات والمؤسسات  ونزاهة التعامل مع جميع عملائها وثقة عملائها في انجاز الاعمال المكلفة 
+بها وكذلك تم تصنيفها من مقدمي خدمات المدن للدخول في حقل المشاريع الحكومية و لنا العديد من العقود المبرمة بين المؤسسات لتنفيذ تلك العقود الحكومية 
+و الاهلية مع المؤسسة ولقد تخصصت منذ انطلاقها في اعمال المقاولات المختلفة مثل اعمال الانشاءات واعمال التشطيبات وكافة الاعمال الكهربائية والاعمال 
+الميكانيكية و الابواب بجميع انواعها مثل السباكة و الكهرباء وغيرها من الاعمال التي تتعلق بمجال المقاولات العامة </p>
+        <img src="C:\Users\96656\Desktop\روفا شغل\images" alt="Image 1" class="img-fluid">
+        <img src="C:\Users\96656\Desktop\روفا شغل\images" alt="Image 2" class="img-fluid">
+        <h2>الرؤية والرسالة والهدف</h2>
+<p> الرؤية :
+نتطلع الى التوسع في الاعمال المستقبلية المتطورة مع رؤية المملكة سنة 2030 التي تسعى الى تطبيق التكنولوجيا و تنفيذ الافكار الذكية
+في مشاركة الشركات الناجحة لكي نصل بالمؤسسة الى مستوى عالمي في تقديم الخدمات باعلى جودة و احترافية 
+
+الرسالة :
+ان رسالتنا في مؤسسة بركة ورزق للمقاولات تكمن في نشر ثقافة الجودة بمفهومها الحقيقي في مجال المقاولات العامة بالمملكة العربية السعودية 
+وذلك من اجل خلق تنافس حقيقي بين كافة الشركات و المؤسسات التي تقدم خدمات المقاولات العامة سواء كانت شركات كبيرة او ناشئة 
+وهذه الرسالة التي نتبناها هي من اجل تقديم افضل الخدمات بانسب التكلفة .
+
+الهدف :
+اننا في مؤسسة بركة ورزق للمقاولات نمتلك هدفا قويا يتمثل في بناء شركات طويلة الأمد مع الكثير من عملائنا في المملكة العربية السعودية ونبذل قصارى جهدنا 
+من اجل تحقيق هذا الهدف لنلبي طموحات واجتياجات عملائنا الحالية و المستقبلية كما أننا نسير وفق خطة منظمة نسعى من خلالها الى توسيع نشاطاتنا لنغطي بخدماتنا 
+كامل ارجاء جيزان و المملكة العربية السعودية حفظها الله ورعاها .
+
+ </p>
+        <h2>سياسة الجودة والأمان</h2>
+        <p>عنصري الجودة و الأمان من أهم العناصر التي نضعها من أولوياتنا التي لا يمكن ان نتهاون فيها كما اننا على مدار سنين طويلة من تقديم 
+اعمال المقاولات و الصيانة و التشغيل ونحن على تحسين الجودة في كل أعمالنا بنظام جودة وأمان ممتاز يواكب التحديات المستمرة ويتماشى مع متطلبات العملاء المختلفة .
+وتتمثل أهم اجراءات سياسة الجودة لدينا في الفحص الدائم وعمل مرلااقبة دورية لمختلف الأعمال مع متابعة سير مؤشرات الأداء لكل العاملين بالمؤسسة وقياس مدى رضاء 
+عملائنا عن الخدمات التي نقدمها لهم وأخذ كافة احتياطات الأمان و السلامة .
+
+</p>
+        <h2>الخدمات</h2>
+      <p>الأعمال الكهربائية :
+نقدم كافة الاعمال الكهربائية مثل اعمال الانارة و أعمال المطارات و محطات التوليد و المحولات و شبكات الخدمات العامة وأعمال البنية التحتية و الاتصال و التحكم و غيرها 
+
+الديكورات  الداخلية : 
+نقدم كافة أعمال الديكور الداخلي و الخارجي و تركيب الألواح [الكي بوند] وزجاتج [الكارتنوول] وتركيب السكايلات لجميع الأسواق و الأبراج الاستثمارية و السكنية. 
+
+أعمال النظافة و الصيانة والتشغيل :
+متميزون للغاية في كافة أعمال الصيانة و النظافة و التشغيل لذا نثق في تقديمنا أفضل الخدمات التي تتعلق بأعمال التشطيبات و التي تشمل أعمال الدهان و الجبس بورد بأفضل الخامات.
+
+جميع الخدمات و أعمال البناء : 
+نقدم جميع ما يتعلق بأعمال الانشاءات والبناء وتتمثل هذه الأعمال التي نقدمها في تنفيذ أعمال التسليح لمختلف المباني و المنشأة مع كل ما يتعلق بالبنية التحتية من البداية للنهاية 
+
+تتنفيذ الرسومات المعمارية و الانشائية :
+نمتلك مهندسين على درجة عالية من الكفاءة و الخبرة في عمل الرسومات المعمارية و الانشائية بجانب القدرة الكاملة على تنفيذ هذه الرسومات بدقة شديدة و بأفضل تكلفة ممكنة .
+
+الأعمال الميكانيكية :
+نمتلك أيضا خبرة كبيرة في جميع الأعمال الميكانيكية التي تتمثل في تركيب وتجهيز التكيفات و خطوط المواسير و الصرف الصحي وشبكات السيول و شبكات الخدمات العامة للمجمعات السكنية وغيرها.
+
+</p>
+        <img src="C:\Users\96656\Desktop\روفا شغل\images" alt="Service Image" class="img-fluid">
+         <img src="C:\Users\96656\Desktop\روفا شغل\images" alt="Service Image" class="img-fluid">
+          <img src="C:\Users\96656\Desktop\روفا شغل\images" alt="Service Image" class="img-fluid">
+          <img src="C:\Users\96656\Desktop\روفا شغل\images" alt="Service Image" class="img-fluid">
+          <img src="C:\Users\96656\Desktop\روفا شغل\images" alt="Service Image" class="img-fluid">
+           <img src="C:\Users\96656\Desktop\روفا شغل\images" alt="Service Image" class="img-fluid">
+           <img src="C:\Users\96656\Desktop\روفا شغل\images" alt="Service Image" class="img-fluid">
+           <img src="C:\Users\96656\Desktop\روفا شغل\images" alt="Service Image" class="img-fluid">
+           <img src="C:\Users\96656\Desktop\روفا شغل\images" alt="Service Image" class="img-fluid">
+
+
+
+
+        <h2>تراخيص وشهادات</h2>
+         <img src="C:\Users\96656\Desktop\روفا شغل\images" alt="1 Image" class="img-fluid">
+        <img src="C:\Users\96656\Desktop\روفا شغل\images" alt="2 Image" class="img-fluid">
+         <img src="C:\Users\96656\Desktop\روفا شغل\images" alt="3 Image" class="img-fluid">
+         <img src="C:\Users\96656\Desktop\روفا شغل\images" alt="4 Image" class="img-fluid">
+         <img src="C:\Users\96656\Desktop\روفا شغل\images" alt="5 Image" class="img-fluid">
+         <img src="C:\Users\96656\Desktop\روفا شغل\images" alt="6 Image" class="img-fluid">
+         
+        <h2>الهيكل التنظيمي</h2>
+        <img src="C:\Users\96656\Desktop\روفا شغل\images" alt="Organizational Structure Image" class="img-fluid">
+        <h2>مشروعاتنا</h2>
+        <p>مشروعاتنا: اذا اردت الإطلاع على مشروعاتنا <a href="projects.html">اضغط هنا</a></p>
+    </section>
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+</body>
+</html>

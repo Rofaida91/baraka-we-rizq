@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>مشروعاتنا</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 20px;
+            text-align: right;
+        }
+        h2 {
+            color: blue;
+        }
+    </style>
+</head>
+<body>
+<h2>مشروعاتنا</h2>
+<p>
+1:
+القطاع: وزارة الاسكان 
+الحالة : من الباطن 
+بيان الأعمال : تركيب أبواب حديد و خشب 
+--------------------------------
+
+
+2:
+القطاع : الهيئة الملكية 
+الحالة : من الباطن 
+بيان الأعمال : أعمال بلاط 
+-------------------------------
+
+
+
+3:
+القطاع : أهالي فلل سكنية 
+الحالة : مباشر 
+بيان الأعمال : كامل تسليم مفتاح 
+------------------------------
+
+
+
+4:
+القطاع : شركة كهرباء 
+الحالة : من الباطن 
+بيان الأعمال : تنفيذ أسوار مع تشطيب 
+-------------------------------
+
+
+
+5:
+القطاع : بلدية السهي 
+الحالة : من الباطن 
+بيان الأعمال : تنفيذ خزانات صرف مطر 
+------------------------------
+
+
+
+6: 
+القطاع : الأمن العام 
+الحالة : من الباطن 
+بيان الأعمال : تنفيذ بلاط ودهان 
+-------------------------------
+</p>
+<img src="C:\Users\96656\Desktop\روفا شغل\imagesv" alt="x Image" class="img-fluid">
+ <img src="C:\Users\96656\Desktop\روفا شغل\images" alt="y Image" class="img-fluid">
+ <img src="C:\Users\96656\Desktop\روفا شغل\images" alt="a Image" class="img-fluid"> 
+<img src="C:\Users\96656\Desktop\روفا شغل\images" alt="b Image" class="img-fluid">
+<img src="C:\Users\96656\Desktop\روفا شغل\images" alt="c Image" class="img-fluid">
+
+
